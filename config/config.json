@@ -1,1 +1,16 @@
-{}
+{
+  "theme": {
+      "slug": "sauceitup",
+      "name": "Sauce It Up Pizza",
+      "author": "Daniel Bisett",
+      "PHPNamespace": "WP_Rig\\WP_Rig"
+    },
+    "dev": {
+      "browserSync": {
+        "live": true,
+        "proxyURL": "sauceitup:8890",
+        "bypassPort": "8194",
+        "https": false
+      }
+}
+}
