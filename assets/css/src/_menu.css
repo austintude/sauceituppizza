@@ -66,7 +66,7 @@
 		}
 	& 	a {
 		  font-display: optional;
-		font-family: Clicker Script, cursive;
+		font-family: Cabin Sketch, cursive;
 		text-decoration: none;
 
 		color: #222;
@@ -81,7 +81,7 @@
 	& a:visited {
 	color: #222;
 	font-display: optional;
-	font-family: Clicker Script, cursive;
+	font-family: Cabin Sketch, cursive;
 	}
 	  }
 
@@ -104,7 +104,7 @@
 	 & h3 {
 		font-size: 4rem;
 		font-display: optional;
-		font-family: Clicker Script, cursive;
+		font-family: Cabin Sketch, cursive;
 		/* font-variant-caps: petite-caps; */
 		top: 11rem;
 	  position: relative;
@@ -195,7 +195,7 @@
 			padding: 0.8rem;
 			& a {
 			  font-display: optional;
-			font-family: Clicker Script, cursive;
+			font-family: Cabin Sketch, cursive;
 			text-decoration: none;
 			font-size: 1rem;
 			color: #f7f7f7;

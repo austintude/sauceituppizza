@@ -27,6 +27,8 @@
 @import "_links.css";
 @import "_theme-specific-mods.css";
 @import "_block1.css";
+@import "_block1b.css";
+@import "_block1c.css";
 @import "_block2.css";
 @import "_block3.css";
 @import "_block4.css";
@@ -428,7 +430,7 @@ select {
 		content: "";
 		display: block;
 		height: 4px;
-		background: linear-gradient(90deg,#fbd7d7,#fbd7d7,#fbd7d7,#38b6ff);
+		background: #f71026;
 	}
 }
 

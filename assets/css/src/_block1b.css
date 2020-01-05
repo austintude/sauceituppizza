@@ -1,4 +1,4 @@
-.block1 {
+.block1#blockb {
 	display: flex;
 	flex-direction: column;
 	margin: -2rem 0 2rem;
@@ -12,6 +12,12 @@
 		text-transform: uppercase;
 		background: #38b6ff;
 		/* background-color: #fcd176; */
+	}
+	& .ctaButton {
+		display: none;
+		@media (--content-query) {
+			display: block;
+		}
 	}
 	& .ctaButton a {
 		background: transparent;
