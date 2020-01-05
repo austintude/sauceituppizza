@@ -8,8 +8,8 @@
     "dev": {
       "browserSync": {
         "live": true,
-        "proxyURL": "sauceitup:8890",
-        "bypassPort": "8194",
+        "proxyURL": "wprig-sauce:8888",
+        "bypassPort": "8195",
         "https": false
       }
 }
